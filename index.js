@@ -12,7 +12,7 @@ function takeANumberAlt(katzDeli) {
   
 }
 
-function resetNumber(number) {
+function resetNumber() {
   if (number >= 50) {
     number = 0;
     return number;
