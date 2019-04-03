@@ -8,6 +8,7 @@ function takeANumberAlt(katzDeli) {
   var number = 0;
   katzDeli.push(number);
   return number;
+  
 }
 
 
