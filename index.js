@@ -4,8 +4,9 @@ function takeANumber(katzDeli, newCustomer) {
   return "Welcome, " + newCustomer +". You are number "+ position +" in line."
 }
 
+var number = 0;
 function takeANumberAlt(katzDeli) {
-  var number = 0;
+  
   katzDeli.push(number);
   return number++;
   
