@@ -13,7 +13,10 @@ function takeANumberAlt(katzDeli) {
 }
 
 function resetNumber(number) {
-  
+  if (number >= 50) {
+    number = 0;
+    return number;
+  }
 }
 
 function nowServing (deliLine){
