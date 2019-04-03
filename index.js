@@ -5,7 +5,9 @@ function takeANumber(katzDeli, newCustomer) {
 }
 
 function takeANumberAlt(katzDeli) {
-  
+  var number = 0;
+  katzDeli.push(number);
+  return katzDeli.number;
 }
 
 
