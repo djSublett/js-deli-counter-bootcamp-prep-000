@@ -5,6 +5,8 @@ function takeANumber(katzDeli, newCustomer) {
 }
 
 
+
+
 function nowServing (deliLine){
   var name;
 
