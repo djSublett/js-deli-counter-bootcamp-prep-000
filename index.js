@@ -16,11 +16,11 @@ function nowServing (deliLine){
   return "Currently serving "+ name + "."
 }
 
+
+
+
+
 var line = [];
-
-
-
-
 
 function currentLine(katzDeli) {
   let i = 0;
