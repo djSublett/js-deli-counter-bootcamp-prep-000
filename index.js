@@ -12,6 +12,9 @@ function takeANumberAlt(katzDeli) {
   
 }
 
+function resetNumber(number) {
+  
+}
 
 function nowServing (deliLine){
   var name;
