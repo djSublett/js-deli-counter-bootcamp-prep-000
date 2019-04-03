@@ -4,7 +4,9 @@ function takeANumber(katzDeli, newCustomer) {
   return "Welcome, " + newCustomer +". You are number "+ position +" in line."
 }
 
-
+function takeANumberAlt() {
+  
+}
 
 
 function nowServing (deliLine){
